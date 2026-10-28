@@ -1,0 +1,20 @@
+
+Parameters:
+  dxvk: true
+  vkd3d: false
+  dxvk_nvapi: false
+  latencyflex: false
+
+Installed_Dependencies:
+  - arial32
+  - times32
+  - courie32
+  - tahoma32
+  - verdan32
+  - consolas
+  - lucon
+  - selawik
+  - gecko
+  - vcredist2022
+  - dotnet48
+  - msxml6
