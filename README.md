@@ -1,6 +1,6 @@
 # Cadence OrCAD X on Linux with Bottles
 
-[Türkçe](README.tr.md)
+
 
 Scripts and recipes that prepare a [Bottles](https://usebottles.com) (Wine)
 bottle for **Cadence OrCAD X** and then install OrCAD X with Cadence's own
